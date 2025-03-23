@@ -1,0 +1,51 @@
+# ninja log v6
+21	1503	7642417031380383	bank-management-system_autogen/timestamp	2a70ce02ede325f7
+21	1503	7642417031380383	bank-management-system_autogen/mocs_compilation.cpp	2a70ce02ede325f7
+21	1503	7642417031380383	C:/Users/tahaj/OneDrive - FAST National University/Desktop/QT Projects/Bank Management/bank-management-system/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/bank-management-system_autogen/timestamp	2a70ce02ede325f7
+21	1503	7642417031380383	C:/Users/tahaj/OneDrive - FAST National University/Desktop/QT Projects/Bank Management/bank-management-system/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/bank-management-system_autogen/mocs_compilation.cpp	2a70ce02ede325f7
+1519	5536	7642417033352035	CMakeFiles/bank-management-system.dir/bank-management-system_autogen/mocs_compilation.cpp.obj	9a0809195b3f68fb
+1527	5628	7642417033425903	CMakeFiles/bank-management-system.dir/main.cpp.obj	d5c3ac2941f15e61
+1535	5751	7642417033520059	CMakeFiles/bank-management-system.dir/login.cpp.obj	9b2b4ece29aa7d78
+5751	6401	7642417075675703	bank-management-system.exe	76a80518f49e0238
+130	602	7642418069342383	bank-management-system_autogen/timestamp	2a70ce02ede325f7
+130	602	7642418069342383	bank-management-system_autogen/mocs_compilation.cpp	2a70ce02ede325f7
+130	602	7642418069342383	C:/Users/tahaj/OneDrive - FAST National University/Desktop/QT Projects/Bank Management/bank-management-system/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/bank-management-system_autogen/timestamp	2a70ce02ede325f7
+130	602	7642418069342383	C:/Users/tahaj/OneDrive - FAST National University/Desktop/QT Projects/Bank Management/bank-management-system/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/bank-management-system_autogen/mocs_compilation.cpp	2a70ce02ede325f7
+606	4767	7642418074109224	CMakeFiles/bank-management-system.dir/login.cpp.obj	9b2b4ece29aa7d78
+4768	5226	7642418115733124	bank-management-system.exe	76a80518f49e0238
+60	454	7642418578892707	bank-management-system_autogen/timestamp	2a70ce02ede325f7
+60	454	7642418578892707	bank-management-system_autogen/mocs_compilation.cpp	2a70ce02ede325f7
+60	454	7642418578892707	C:/Users/tahaj/OneDrive - FAST National University/Desktop/QT Projects/Bank Management/bank-management-system/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/bank-management-system_autogen/timestamp	2a70ce02ede325f7
+60	454	7642418578892707	C:/Users/tahaj/OneDrive - FAST National University/Desktop/QT Projects/Bank Management/bank-management-system/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/bank-management-system_autogen/mocs_compilation.cpp	2a70ce02ede325f7
+458	5478	7642418582965496	CMakeFiles/bank-management-system.dir/login.cpp.obj	9b2b4ece29aa7d78
+5478	5842	7642418633165234	bank-management-system.exe	76a80518f49e0238
+134	630	7642419034245032	bank-management-system_autogen/timestamp	2a70ce02ede325f7
+134	630	7642419034245032	bank-management-system_autogen/mocs_compilation.cpp	2a70ce02ede325f7
+134	630	7642419034245032	C:/Users/tahaj/OneDrive - FAST National University/Desktop/QT Projects/Bank Management/bank-management-system/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/bank-management-system_autogen/timestamp	2a70ce02ede325f7
+134	630	7642419034245032	C:/Users/tahaj/OneDrive - FAST National University/Desktop/QT Projects/Bank Management/bank-management-system/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/bank-management-system_autogen/mocs_compilation.cpp	2a70ce02ede325f7
+633	4855	7642419039237545	CMakeFiles/bank-management-system.dir/login.cpp.obj	9b2b4ece29aa7d78
+4856	5270	7642419081462045	bank-management-system.exe	76a80518f49e0238
+84	484	7642419405711856	bank-management-system_autogen/timestamp	2a70ce02ede325f7
+84	484	7642419405711856	bank-management-system_autogen/mocs_compilation.cpp	2a70ce02ede325f7
+84	484	7642419405711856	C:/Users/tahaj/OneDrive - FAST National University/Desktop/QT Projects/Bank Management/bank-management-system/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/bank-management-system_autogen/timestamp	2a70ce02ede325f7
+84	484	7642419405711856	C:/Users/tahaj/OneDrive - FAST National University/Desktop/QT Projects/Bank Management/bank-management-system/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/bank-management-system_autogen/mocs_compilation.cpp	2a70ce02ede325f7
+488	4689	7642419409764343	CMakeFiles/bank-management-system.dir/login.cpp.obj	9b2b4ece29aa7d78
+4689	5166	7642419451767837	bank-management-system.exe	76a80518f49e0238
+83	460	7642419597739611	bank-management-system_autogen/timestamp	2a70ce02ede325f7
+83	460	7642419597739611	bank-management-system_autogen/mocs_compilation.cpp	2a70ce02ede325f7
+83	460	7642419597739611	C:/Users/tahaj/OneDrive - FAST National University/Desktop/QT Projects/Bank Management/bank-management-system/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/bank-management-system_autogen/timestamp	2a70ce02ede325f7
+83	460	7642419597739611	C:/Users/tahaj/OneDrive - FAST National University/Desktop/QT Projects/Bank Management/bank-management-system/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/bank-management-system_autogen/mocs_compilation.cpp	2a70ce02ede325f7
+463	4543	7642419601544377	CMakeFiles/bank-management-system.dir/login.cpp.obj	9b2b4ece29aa7d78
+4543	4903	7642419642346177	bank-management-system.exe	76a80518f49e0238
+69	538	7642419764284575	bank-management-system_autogen/timestamp	2a70ce02ede325f7
+69	538	7642419764284575	bank-management-system_autogen/mocs_compilation.cpp	2a70ce02ede325f7
+69	538	7642419764284575	C:/Users/tahaj/OneDrive - FAST National University/Desktop/QT Projects/Bank Management/bank-management-system/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/bank-management-system_autogen/timestamp	2a70ce02ede325f7
+69	538	7642419764284575	C:/Users/tahaj/OneDrive - FAST National University/Desktop/QT Projects/Bank Management/bank-management-system/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/bank-management-system_autogen/mocs_compilation.cpp	2a70ce02ede325f7
+543	4941	7642419769074151	CMakeFiles/bank-management-system.dir/login.cpp.obj	9b2b4ece29aa7d78
+4942	5432	7642419813061317	bank-management-system.exe	76a80518f49e0238
+87	489	7642421910388506	bank-management-system_autogen/timestamp	2a70ce02ede325f7
+87	489	7642421910388506	bank-management-system_autogen/mocs_compilation.cpp	2a70ce02ede325f7
+87	489	7642421910388506	C:/Users/tahaj/OneDrive - FAST National University/Desktop/QT Projects/Bank Management/bank-management-system/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/bank-management-system_autogen/timestamp	2a70ce02ede325f7
+87	489	7642421910388506	C:/Users/tahaj/OneDrive - FAST National University/Desktop/QT Projects/Bank Management/bank-management-system/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/bank-management-system_autogen/mocs_compilation.cpp	2a70ce02ede325f7
+493	4535	7642421914456018	CMakeFiles/bank-management-system.dir/login.cpp.obj	9b2b4ece29aa7d78
+4535	4899	7642421954878710	bank-management-system.exe	76a80518f49e0238
